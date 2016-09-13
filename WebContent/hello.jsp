@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>telebanking Application JSP Page</title>
+    <title>telebanking Application </title>
   </head>
 
   <body bgcolor=white>
